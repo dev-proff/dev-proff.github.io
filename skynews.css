@@ -6,11 +6,7 @@ body{
 
 }
 
-.container{
-	width:100%;
-	margin-left:480px;
-	overflow:hidden;
-	max-width:900px;
+
 }
 /* for the header tag*/
 header{

@@ -87,8 +87,9 @@ button{
 }
 
 
-	@media screen and (max-width:414px){
-	
+	@media screen and (min-width:600px){
+	header{
+		max-width:414px;
 }
 }
 

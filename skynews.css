@@ -88,14 +88,14 @@ button{
 
 @media screen and (max-width:899px){
 	#container{
-		width:100%
+		width:100%;
 	}
 #icons{
-	width:25%
+	width:25%;
 	}
 #icon2{
 	width:25%}
 	
-	nav{width:50%}
+	nav{width:50%;}
 
 

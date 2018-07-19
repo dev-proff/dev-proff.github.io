@@ -76,7 +76,7 @@ button{
 	top:1px;
 	left:10px;
 }
-@media screen and (max-width:414px){
+@media screen and (max-width:500px){
 	body{
 		color:blue;
 		margin:0px;

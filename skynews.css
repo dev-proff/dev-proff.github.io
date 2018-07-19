@@ -86,13 +86,7 @@ button{
 	left:10px;
 }
 
-@media screen and (max-width:899px){
-	#container{
-		width:100%;
-	}
-header{
-	width:100%;}
-}
+
 	@media screen and (max-width:414px){
 			#container{
 		width:100%;
@@ -100,6 +94,6 @@ header{
 header{
 	width:100%;}
 }
-}
+
 		
 

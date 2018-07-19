@@ -90,12 +90,16 @@ button{
 	#container{
 		width:100%;
 	}
-#icons{
-	width:25%;
+header{
+	width:100%;}
+}
+	@media screen and (max-width:640px){
+			#container{
+		width:100%;
 	}
-#icon2{
-	width:25%}
-	
-	nav{width:50%;}
-
+header{
+	width:100%;}
+}
+}
+		
 

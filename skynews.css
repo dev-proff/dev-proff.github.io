@@ -1,39 +1,4 @@
-body{
-	font:1.5 Arial, Helvetical,sans-serif;
-	padding:0px;
-	margin:0px;
-	
 
-}
-
-
-}
-/* for the header tag*/
-header{
-	background-color:#F0F0F0;
-	padding-top:10px;
-	
-	padding-top:20px;
-	position:relative;
-	right:10px;
-
-
-
-}
-
-
-
- 
- /* nav ofcourse*/
-nav,#icon2{
-	float:right;
-	display:inline;
-}
-li{
-	display:inline;
-	font-size:20px;
-	padding-right:12px;
-	position:relative;
 	right:230px;
 }
 ul{

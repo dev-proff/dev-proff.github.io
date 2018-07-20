@@ -1,12 +1,14 @@
 * {
     box-sizing: border-box;
 }
-
+img{
+	background-color:#F2F3F5;
+}
 body{
 	margin:0 auto;
 	font-size:0.9em;
 }
-header{
+header {
 	background-color:#F2F3F5;
 	height:300px;
 

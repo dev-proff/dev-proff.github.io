@@ -1,90 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
 body{
-	font:1.5 Arial, Helvetical,sans-serif;
-	padding:0px;
-	margin:0px;
-	
-	
-
+	margin:0 auto;
+	font-size:0.9em;
 }
-
-.container{
-	width:60%;
-	margin-left:480px;
-	max-width:2000px;
-	
-}
-/* for the header tag*/
-
 header{
-	background-color:black;
-}
+	background-color:#F2F3F5;
+	height:300px;
 
-
- 
- /* nav ofcourse*/
-nav,#icon2{
-	float:right;
-	display:inline;
 }
-li{
-	display:inline;
-	font-size:1.0rem;
-	padding-right:5px;
-	position:relative;
-	right:230px;
+li a ul{
+	display:block;
+	float:left;
+	list-style-type:none;
+
 }
 ul{
-	float:right;
-	position:relative;
-	top:10px;
-
+	list-style-type: none;
+}
+li :hover{
+	background-color:red;
 }
 
-/*search button*/
-#icon2{
-	position:relative;
-	right:180px;
-	top:2px;
-}
-#search{
-	border-color: #3157A1;
-	border-radius: 3px;
-	border-width:0.5px;
-	padding:10px;
-	height:100%;
-	border-right-style:none;
-
-}
-i{
-	background-color:#3157A1;
-	padding:10px;
-	border-radius:3px;
-	position:relative;
-	top:2px;
-	right:2px;
-	color:white;
-	
-}
-/*button*/
-
-button{
-	background-color:#9F202D;
-	padding:10px;
-	border-style:none;
-	color:white;
-	font-size:15px;
-	border-radius:3px;
-	position:relative;
-	top:1px;
-	left:10px;
-}
-@media screen and (max-width:2000px){
-	body{
-		color:blue;
-		margin:0px;
-	}
-	img{
-		position:relative;
-		right:150px;
-	}
+a:link{
+	text-decoration: none;
+	color:black;
 }

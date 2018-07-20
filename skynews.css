@@ -1,15 +1,14 @@
 * {
     box-sizing: border-box;
 }
-img{
-	background-color:#F2F3F5;
+
 }
 body{
 	margin:0 auto;
 	font-size:0.9em;
 }
 header {
-	background-color:#F2F3F5;
+	background-color:black;
 	height:320px;
 
 }
